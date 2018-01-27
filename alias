@@ -1,3 +1,2 @@
-alias lz='make clean; make ;'
 alias h='history | tail -n 40'
 alias vi='vim'
