@@ -26,3 +26,5 @@ nnoremap gV `[v`]
 inoremap jk <esc>
 
 " hi Search guibg=peru guifg=wheat
+
+set relativenumber
