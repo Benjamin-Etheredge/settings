@@ -27,4 +27,5 @@ inoremap jk <esc>
 
 " hi Search guibg=peru guifg=wheat
 
-set relativenumber
+set rnu
+set nu
